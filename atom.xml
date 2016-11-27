@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Daniel Hintze</title>
+ <link href="hintze-it.de/atom.xml" rel="self"/>
+ <link href="hintze-it.de/"/>
+ <updated>2016-11-27T20:42:28+01:00</updated>
+ <id>hintze-it.de</id>
+ <author>
+   <name>Daniel Hintze</name>
+   <email>daniel@hintze-it.de</email>
+ </author>
+
+ 
+
+</feed>

@@ -1,0 +1,52 @@
+==================================================================
+https://keybase.io/hintzed
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://www.hintze-it.de
+  * I am hintzed (https://keybase.io/hintzed) on keybase.
+  * I have a public key ASCFKqY4a1pKJiBI8xVNnpockCJiFOc0bQ_0YGAk6B8uSwo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0120852aa6386b5a4a262048f3154d9e9a1c90226214e7346d0ff4606024e81f2e4b0a",
+            "host": "keybase.io",
+            "kid": "0120852aa6386b5a4a262048f3154d9e9a1c90226214e7346d0ff4606024e81f2e4b0a",
+            "uid": "cc25fc7776f041b1cdf6fac807aea219",
+            "username": "hintzed"
+        },
+        "service": {
+            "hostname": "www.hintze-it.de",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.16"
+    },
+    "ctime": 1469364394,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1469364300,
+        "hash": "9e9f39ea4c0450cfbdc113103db2ddb45dbec6304bfc8e937875da6b64c6b3d04d887a306569eba207beaaa6cc7d78701b3f0e3c0890d350ad0a497dc272378a",
+        "seqno": 540141
+    },
+    "prev": "999fe4c8c98b7fb6f7fb73ffbb481447435e56d76c819ffff6e6e73ab31e2d75",
+    "seqno": 7,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEghSqmOGtaSiYgSPMVTZ6aHJAiYhTnNG0P9GBgJOgfLksKp3BheWxvYWTFAvZ7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwODUyYWE2Mzg2YjVhNGEyNjIwNDhmMzE1NGQ5ZTlhMWM5MDIyNjIxNGU3MzQ2ZDBmZjQ2MDYwMjRlODFmMmU0YjBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwODUyYWE2Mzg2YjVhNGEyNjIwNDhmMzE1NGQ5ZTlhMWM5MDIyNjIxNGU3MzQ2ZDBmZjQ2MDYwMjRlODFmMmU0YjBhIiwidWlkIjoiY2MyNWZjNzc3NmYwNDFiMWNkZjZmYWM4MDdhZWEyMTkiLCJ1c2VybmFtZSI6ImhpbnR6ZWQifSwic2VydmljZSI6eyJob3N0bmFtZSI6Ind3dy5oaW50emUtaXQuZGUiLCJwcm90b2NvbCI6Imh0dHA6In0sInR5cGUiOiJ3ZWJfc2VydmljZV9iaW5kaW5nIiwidmVyc2lvbiI6MX0sImNsaWVudCI6eyJuYW1lIjoia2V5YmFzZS5pbyBnbyBjbGllbnQiLCJ2ZXJzaW9uIjoiMS4wLjE2In0sImN0aW1lIjoxNDY5MzY0Mzk0LCJleHBpcmVfaW4iOjUwNDU3NjAwMCwibWVya2xlX3Jvb3QiOnsiY3RpbWUiOjE0NjkzNjQzMDAsImhhc2giOiI5ZTlmMzllYTRjMDQ1MGNmYmRjMTEzMTAzZGIyZGRiNDVkYmVjNjMwNGJmYzhlOTM3ODc1ZGE2YjY0YzZiM2QwNGQ4ODdhMzA2NTY5ZWJhMjA3YmVhYWE2Y2M3ZDc4NzAxYjNmMGUzYzA4OTBkMzUwYWQwYTQ5N2RjMjcyMzc4YSIsInNlcW5vIjo1NDAxNDF9LCJwcmV2IjoiOTk5ZmU0YzhjOThiN2ZiNmY3ZmI3M2ZmYmI0ODE0NDc0MzVlNTZkNzZjODE5ZmZmZjZlNmU3M2FiMzFlMmQ3NSIsInNlcW5vIjo3LCJ0YWciOiJzaWduYXR1cmUifaNzaWfEQB3fMB1F20WNCU5u20slTHehsyQAVT0Isac10nfzBu7ummd/ngE0W6tvWB+0EVFqblEH3srkG9hP4/rXMC1kvgKoc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCAMiaWgsjxqAmU2lgI31soEd5KyxpyGYbcVxJwkTeJ4CaN0YWfNAgKndmVyc2lvbgE=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/hintzed
